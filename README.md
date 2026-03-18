@@ -1,4 +1,4 @@
-# sp500-AI-Aanlytics
+# sp500-AI-anlytics
 
 ### Section 1: Executive Summary
 
