@@ -1,8 +1,8 @@
 # sp500-AI-analytics
 
-### Section 1: Executive Summary
+## Executive Summary
 
-1.1: The Challenge
+### 1.1: The Challenge
 In Equity Capital Markets (ECM), identifying actionable market mispricings requires analyzing hundreds of companies across multiple metrics. Currently, junior analysts spend several hours manually compiling Trailing P/E, Forward P/E, and EPS estimates from sources, calculating sector aggregates, and formatting data into presentable reports. This manual workflow is inefficient, prone to costly human error, and significantly limits the time available for high-level strategic client advisory.
 
 
